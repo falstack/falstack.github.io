@@ -6,10 +6,11 @@
   "author": "falstack",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.24"
+    "vuepress": "^2.0.0-beta.24",
+    "vuepress-theme-simple": "^1.2.2"
   }
 }
