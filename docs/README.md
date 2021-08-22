@@ -1,0 +1,6 @@
+- 安装 nodejs
+    - 安装 nvm
+    - 安装 yarn
+- 安装 git 
+    - 申请 github 账号
+    - 创建 ssh key 并添加到 github secret 里面
