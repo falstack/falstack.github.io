@@ -1,5 +1,5 @@
 {
-  "name": "teacher",
+  "name": "learn",
   "version": "1.0.0",
   "description": "learn web",
   "main": "index.js",
@@ -10,7 +10,9 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.24",
-    "vuepress-theme-simple": "^1.2.2"
+    "vuepress": "^2.0.0-beta.24"
+  },
+  "dependencies": {
+    "@calibur/vuepress-theme-eva": "^0.0.1"
   }
 }

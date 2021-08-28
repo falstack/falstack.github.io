@@ -2,8 +2,9 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
-    theme: 'simple',
+    theme: '@calibur/eva',
+    title: '{ do something }',
     themeConfig: {
-        author: 'YOUR NAME', // will display on the page footer
+      author: '冰淤', // will display on the page footer
     }
 })
